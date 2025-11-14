@@ -24,8 +24,8 @@ if (scelta === "MCD" || scelta === "mcd")
                 if (resto === 0)
                 {
                     conferma = true;
-                    const MCD = (input1 * input2) / input2;
-                    console.log("Il MCD è: " + MCD);
+                    // const MCD = (input1 * input2) / input2;
+                    // console.log("Il MCD è: " + MCD);
                 }
                 else
                 {
@@ -54,9 +54,9 @@ else if (scelta === "MCM" || scelta === "mcm")
                 if (resto === 0)
                 {
                     conferma = true;
-                    const MCD = (input1 * input2) / input2;
-                    const MCM = (input1 * input2) / MCD;
-                    console.log("Il MCM è: " + MCM);
+                    // const MCD = (input1 * input2) / input2;
+                    // const MCM = (input1 * input2) / MCD;
+                    // console.log("Il MCM è: " + MCM);
                 }
                 else
                 {
